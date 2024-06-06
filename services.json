@@ -1,0 +1,72 @@
+[
+    {
+        "service_type": "Software",
+        "service_name": "Applicant Tracking System (ATS)",
+        "description": "Manages job postings, applications, and streamlines the recruitment process."
+    },
+    {
+        "service_type": "Software",
+        "service_name": "Onboarding Software",
+        "description": "Automates and simplifies the new hire process, ensuring a smooth transition."
+    },
+    {
+        "service_type": "Software",
+        "service_name": "Time & Attendance",
+        "description": "Tracks employee hours, automates timesheets, and manages leave requests."
+    },
+    {
+        "service_type": "Software",
+        "service_name": "Payroll Management",
+        "description": "Calculates salaries and taxes, automates payroll processing, and ensures timely payments."
+    },
+    {
+        "service_type": "Software",
+        "service_name": "Benefits Administration",
+        "description": "Enables employees to enroll in benefits programs, manage their accounts, and submit claims."
+    },
+    {
+        "service_type": "Software",
+        "service_name": "Performance Management",
+        "description": "Facilitates setting goals, tracking employee progress, and providing performance feedback."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "Payroll Processing",
+        "description": "Third-party handles calculation, distribution of paychecks, and tax withholdings."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "Benefits Administration",
+        "description": "Outsourcing management of employee benefits plans, enrollment, and claims processing."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "HR Compliance",
+        "description": "Ensures company adherence to labor laws and regulations, mitigating legal risks."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "HR Risk Management",
+        "description": "Provides guidance and strategies to minimize risks associated with employee relations and lawsuits."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "HR Consulting",
+        "description": "Offers expertise and advice on best practices in HR management, policies, and procedures."
+    },
+    {
+        "service_type": "Combined",
+        "service_name": "HR Management Suite",
+        "description": "Comprehensive software and service package for all your employee management needs."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "Employee Training Management",
+        "description": "Tracks employee training records, manages course enrollment, and delivers online learning programs (may be offered as software or service)."
+    },
+    {
+        "service_type": "Service",
+        "service_name": "Employee Relations",
+        "description": "Provides guidance on handling employee disputes, grievances, and disciplinary actions."
+    }
+]
